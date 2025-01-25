@@ -1,4 +1,4 @@
-# final_app
+# Scan Shop app
 
 A new Flutter project.
 
